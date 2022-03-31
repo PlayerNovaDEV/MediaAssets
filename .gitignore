@@ -3,3 +3,6 @@
 old/*
 PhoenixRP/*
 web/*
+*.rar
+*.zip
+.DS_Store

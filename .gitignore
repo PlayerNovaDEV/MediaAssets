@@ -1,2 +1,5 @@
 *.psd
 *.ai
+old/*
+PhoenixRP/*
+web/*
